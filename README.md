@@ -1,3 +1,4 @@
+_
 # Objetivos da prática
 
 A partir dos objetivos listados abaixo, no final do projeto, você terá criado um servidor
@@ -10,3 +11,6 @@ Utilizar o banco de dados MongoDB para a criação de repositório NoSQL
 Implementar servidor baseado em Express e Mongoose
 Implementar biblioteca cliente de acesso em Java Script
 Utilizar front-ends baseados em React JS, Next JS e Angular
+
+
+
