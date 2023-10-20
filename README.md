@@ -29,9 +29,6 @@ $ npm start
 # Go into the repository
 $ cd livros-react
 
-# Install dependencies
-$ npm install
-
 # Run server
 $ npm start
 
@@ -43,8 +40,6 @@ $ npm start
 # Go into the repository
 $ cd livros-next
 
-# Install dependencies
-$ npm install
 
 # Run server
 $ npm run dev
@@ -55,9 +50,6 @@ $ npm run dev
 ```bash
 # Go into the repository
 $ cd livros-angular
-
-# Install dependencies
-$ npm install
 
 # Run server
 $ ng serve
